@@ -1,4 +1,6 @@
-# Remotion video
+# Morph Text
+
+As requested in our Discord, this is a recreation of [this CodePen](https://codepen.io/Valgo/pen/PowZaNY) in Remotion.
 
 <p align="center">
   <a href="https://github.com/remotion-dev/logo">
