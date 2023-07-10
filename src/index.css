@@ -15,7 +15,7 @@ body {
 	height: 100%;
 	top: 0;
 	bottom: 0;
-
+ 
 	/* This filter is a lot of the magic, try commenting it out to see how the morphing works! */
 	filter: url(#threshold) blur(0.6px);
 }
@@ -33,4 +33,6 @@ body {
 	text-align: center;
 
 	user-select: none;
+
+	color: #0b84f3;
 }

@@ -70,11 +70,11 @@ export const MyComposition = () => {
 				return;
 			}
 			text2.current.style.filter = `blur(${Math.min(8 / fr - 8, 100)}px)`;
-			text2.current.style.opacity = `${Math.pow(fr, 0.4) * 100}%`;
+			text2.current.style.opacity = `${fr**0.4 * 100}%`;
 
 			fr = 1 - fr;
 			text1.current.style.filter = `blur(${Math.min(8 / fr - 8, 100)}px)`;
-			text1.current.style.opacity = `${Math.pow(fr, 0.4) * 100}%`;
+			text1.current.style.opacity = `${fr ** 0.4 * 100}%`;
 
 			if (text1.current) {
 				text1.current.textContent = texts[textIndex % texts.length];
