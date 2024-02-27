@@ -11,15 +11,15 @@
 	"repository": {},
 	"license": "UNLICENSED",
 	"dependencies": {
-		"@remotion/bundler": "4.0.4",
-		"@remotion/cli": "4.0.4",
-		"@remotion/eslint-config": "4.0.4",
-		"@remotion/renderer": "4.0.4",
+		"@remotion/bundler": "4.0.120",
+		"@remotion/cli": "4.0.120",
+		"@remotion/eslint-config": "4.0.120",
+		"@remotion/renderer": "4.0.120",
 		"eslint": "^7.15.0",
 		"prettier": "^3.0.0",
 		"react": "^17.0.2",
 		"react-dom": "^17.0.2",
-		"remotion": "4.0.4",
+		"remotion": "4.0.120",
 		"typescript": "4.9.5"
 	},
 	"devDependencies": {
